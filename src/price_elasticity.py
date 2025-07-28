@@ -54,7 +54,7 @@ def beta_from_elasticity(
         dp = group["PriceDelta"].astype(float).values
 
         slopes = dp / dq
-        beta_raw = np.mean(slopes)
+        beta_raw = np.max(slopes)
 
         beta = -beta_raw
         if clip is not None:
@@ -97,15 +97,12 @@ def plot_price_elasticity(price_elasticity, trading_date="2025-06-26"):
         (price_elasticity["DATETIME"] >= start_time) &
         (price_elasticity["DATETIME"] <= end_time)
     ].copy()
-    plt.figure(figsize=(14, 6))
+    plt.figure(figsize=(14, 10))
     sns.boxplot(data=price_elasticity, x="DATETIME", y="PriceDelta", fliersize=0, color="lightgray", linewidth=1)
     sns.stripplot(data=price_elasticity, x="DATETIME", y="PriceDelta", color="black", size=2, alpha=0.4, jitter=0.2)
-    plt.title("PriceDelta Across the Day (Actual Data)")
-    plt.xlabel("Time of Day")
-    plt.ylabel("PriceDelta ($/MWh)")
     plt.xticks(rotation=90)
     plt.tick_params(axis='both', which='major', labelsize=14)
-    plt.title("PriceDelta Across the Day (Actual Data)", fontsize=18)
+    plt.title("PriceDelta Across the Day", fontsize=18)
     plt.xlabel("Time of Day", fontsize=16)
     plt.ylabel("PriceDelta ($/MWh)", fontsize=16)
     plt.tight_layout()
@@ -137,7 +134,7 @@ beta_series = beta_from_elasticity(elasticity)
 
 # before you call reindex
 beta_series.index = pd.to_datetime(beta_series.index)   # key line
-beta_series.to_csv("./inputs/beta_series_mean.csv")
+beta_series.to_csv("./inputs/beta_series_max.csv")
 plt.plot(beta_series)
 plt.ylabel("beta ($/MW)")
 plt.xticks(rotation = 90)

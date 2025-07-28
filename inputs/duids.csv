@@ -1,0 +1,549 @@
+Participant,Station Name,Region,Dispatch Type,Category,Classification,Fuel Source - Primary,Fuel Source - Descriptor,Technology Type - Primary,Technology Type - Descriptor,Units,Aggregation,DUID
+AGL Dalrymple Pty Limited,Dalrymple North BESS,SA1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery,1-Dec,Y,DALNTH1
+South Australian Water Corporation,Adelaide Desalination Plant,SA1,Generating Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,1-Mar,Y,ADPBA1G
+South Australian Water Corporation,Adelaide Desalination Plant,SA1,Load,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,1-Mar,Y,ADPBA1L
+South Australian Water Corporation,Adelaide Desalination Plant,SA1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Run of River,1-Feb,Y,ADPMH1
+South Australian Water Corporation,Adelaide Desalination Plant,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,"1-4, 5-9",Y,ADPPV1
+South Australian Water Corporation,Adelaide Desalination Plant,SA1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,1-Feb,Y,ADPPV2
+South Australian Water Corporation,Adelaide Desalination Plant,SA1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,1,Y,ADPPV3
+Aldoga Solar Farm Pty Ltd,Aldoga Solar Farm ,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltalic Tracking Flat Panel,1-157,Y,ALDGASF1
+Snowy Hydro Limited,Angaston Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Diesel,Combustion,Compression Reciprocating Engine,Jan-30,Y,ANGAST1
+EDL Group Operations Pty Ltd,Appin Power Plant,NSW1,Generating Unit,Market,Non-Scheduled,Fossil,Waste Coal Mine Gas,Combustion,Spark Ignition Reciprocating Engine,Jan-54,N,APPIN
+Ararat Wind Farm Pty Ltd,Ararat Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-75,Y,ARWF1
+Iberdrola Australia Energy Markets Pty Ltd,Avonlie Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-70,Y,AVLSF1
+Alinta Energy Retail Sales Pty Ltd,Bairnsdale Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,BDL01
+Alinta Energy Retail Sales Pty Ltd,Bairnsdale Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2,Y,BDL02
+Birdwood Trading Pty Ltd,Baking Board Solar Farm,QLD1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Jul,Y,BAKING1
+Alinta Energy Retail Sales Pty Ltd,Bald Hills Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-52,Y,BALDHWF1
+Enel X Australia Pty Ltd ,Ballarat Base Hospital Plant,VIC1,Generating Unit,Market,Non-Scheduled,Fossil,Natural Gas,Combustion,Compression Reciprocating Engine,1-Mar,N,BBASEHOS
+AGL Macquarie Pty Limited,Broken Hill Battery Energy Storage System,NSW1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-44,Y,BHB1
+BWF Nominees Pty Ltd as The Trustee for BWF Trust,Bango 973 Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-30,Y,BANGOWF1
+BWF Nominees Pty Ltd as The Trustee for BWF Trust,Bango 999 Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-16,Y,BANGOWF2
+AGL Hydro Partnership,Banimboola Power Station,VIC1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Mar,Y,BAPS
+Alinta Energy Retail Sales Pty Ltd,Bannerton Solar Park,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-40,Y,BANN1
+Ergon Energy Queensland Pty Ltd,Barcaldine Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),1,Y,BARCALDN
+Diamond Energy Pty Ltd,Barcaldine Solar Farm,QLD1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Feb,Y,BARCSF1
+AGL SA Generation Pty Limited,Barker Inlet Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Compression Reciprocating Engine,1-Dec,Y,BARKIPS1
+CleanCo Queensland Limited,Barron Gorge Power Station,QLD1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Run of River,1,Y,BARRON-1
+CleanCo Queensland Limited,Barron Gorge Power Station,QLD1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Run of River,2,Y,BARRON-2
+Basslink Pty Ltd,Basslink HVDC Link,TAS1,Generating Unit,Market,Non-Scheduled,,,,,1,N,BLNKTAS
+Basslink Pty Ltd,Basslink HVDC Link,VIC1,Generating Unit,Market,Non-Scheduled,,,,,1,N,BLNKVIC
+Hydro-Electric Corporation,Bastyan Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,BASTYAN
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,1,Y,BW01
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,2,Y,BW02
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,3,Y,BW03
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,4,Y,BW04
+Hydro-Electric Corporation,Bell Bay Three Power Station,TAS1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,BBTHREE1
+Hydro-Electric Corporation,Bell Bay Three Power Station,TAS1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2,Y,BBTHREE2
+Hydro-Electric Corporation,Bell Bay Three Power Station,TAS1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),3,Y,BBTHREE3
+Hydro-Electric Corporation,Bell Bay Three Power Station,TAS1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,TVPP104
+Berrybank 2 Asset Pty Ltd as trustee for Berrybank 2 Asset Trust,Berrybank 2 Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-26,Y,BRYB2WF2
+Berrybank Development Pty Ltd,Berrybank Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-43,Y,BRYB1WF1
+FS NSW Project No 1 At Pty Ltd ATF The FS NSW Project No 1 Asset Trust,Beryl Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-60,Y,BERYLSF1
+Snowy Hydro Limited,Blowering Power Station,NSW1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,BLOWERNG
+X-Elio Blue Grass Pty Ltd,Blue Grass Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-112,Y,BLUEGSF1
+AGL SA Generation Pty Limited,Torrens Island BESS,SA1,Bidirectional Unit,Market,Scheduled,Battery Storage,Grid,Storage,Battery and Inverter,1-109,Y,TIB1
+Boco Rock Wind Farm Pty Ltd,Boco Rock Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-67,N,BOCORWF1
+Bodangora Wind Farm Pty Limited,Bodangora Wind Farm ,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-33,Y,BODWF1
+AGL Hydro Partnership,Bogong / Mackay Power Station,VIC1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Jun,Y,MCKAY1
+Iberdrola Australia Energy Markets Pty Limited,Bolivar Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1-Apr,Y,BOLIVPS1
+South Australian Water Corporation,Bolivar Waste Water Treatment Plant,SA1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Sewerage / Waste Water,Renewable,Pump Storage,1-Mar,N,BOLIVAR1
+AGL Sales (Queensland Electricity) Pty Limited,Wandoan Battery Energy Storage System (BESS),QLD1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery,Jan-34,Y,WANDB1
+South Australian Water Corporation,Bolivar Waste Water Treatment Plant,SA1,Generating Unit,Market,Non-Scheduled,Fossil,Diesel,Combustion,Compression Reciprocating Engine,1,N,BOWWDG1
+South Australian Water Corporation,Bolivar Waste Water Treatment Plant,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Mar,Y,BOWWPV1
+Bomen Solar Farm Pty Ltd as trustee for Bomen SF Trust,Bomen Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-44,Y,BOMENSF1
+Berrybank 2 Asset Pty Ltd as trustee for Berrybank 2 Asset Trust,Queanbeyan BESS,NSW1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter, 1-8,Y,QBYNB1
+Arrow Southern Generation Pty Ltd And Arrow Braemar 2 Pty Ltd,Braemar 2 Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Coal Seam Methane,Combustion,Open Cycle Gas turbines (OCGT),5,Y,BRAEMAR5
+Arrow Southern Generation Pty Ltd And Arrow Braemar 2 Pty Ltd,Braemar 2 Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Coal Seam Methane,Combustion,Open Cycle Gas turbines (OCGT),6,Y,BRAEMAR6
+Arrow Southern Generation Pty Ltd And Arrow Braemar 2 Pty Ltd,Braemar 2 Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Coal Seam Methane,Combustion,Open Cycle Gas turbines (OCGT),7,Y,BRAEMAR7
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Coal Seam Methane,Combustion,Open Cycle Gas turbines (OCGT),1,Y,BRAEMAR1
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Coal Seam Methane,Combustion,Open Cycle Gas turbines (OCGT),2,Y,BRAEMAR2
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Coal Seam Methane,Combustion,Open Cycle Gas turbines (OCGT),3,Y,BRAEMAR3
+Cape Byron Management Pty Ltd,Broadwater Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Bagasse,Combustion,Steam Sub-Critical,1-Feb,N,BWTR1
+Blyth Battery Pty Ltd as the Trustee for Blyth Battery Trust,Blyth Battery Energy Storage System,SA1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-64,Y,BLYTHB1
+NSW Electricity Networks Operations Pty Ltd as a Trustee for the NSW Electricity Networks Operations Trust,Broken Hill Gas Turbines,NSW1,Generating Unit,Market,Non-Scheduled,Fossil,Diesel,Combustion,Open Cycle Gas turbines (OCGT),1-Feb,N,GB01
+PARF Company 6 Pty Ltd as The Trustee for Project Trust,Broken Hill Solar Plant,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,Jan-80,N,BROKENH1
+EDL LFG (Vic) Pty Ltd,Brooklyn LFG U1-3,VIC1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-Mar,N,BROOKLYN
+Hydro Power Pty Limited,Brown Mountain Hydro Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Jun,Y,BROWNMT
+EDL LFG (Qld) Pty Ltd,Browns Plains Landfill Gas PS,QLD1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-Feb,N,BPLANDF1
+Bouldercombe Battery Project Co Pty Ltd as trustee for Bouldercombe Battery Project Trust,Bouldercombe Battery Project,QLD1,Bidirectional Unit,market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-40,Y,BBATTERY1
+Bulgana Wind Farm Pty Ltd,Bulgana Green Power Hub,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-56,Y,BULGANA1
+Bungala One Operations Pty Ltd as trustee for the Bungala One Operations Trust,Bungala One Solar Farm,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-54,Y,BNGSF1
+Bungala Two Operations Pty Ltd as trustee for the Bungala Two Operations Trust,Bungala Two Solar Farm,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-54,Y,BNGSF2
+AGL Hydro Partnership,Burrendong Hydro Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,BDONGHYD
+GSP Energy Pty Ltd,Burrinjuck Hydro Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Mar,N,BURRIN
+Hydro-Electric Corporation,Butlers Gorge Power Station,TAS1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,BUTLERSG
+Callide Power Trading Pty Limited,Callide C Nett Off,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Super Critical,3,Y,CPP_3
+Callide Power Trading Pty Limited,Callide C Nett Off,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Super Critical,4,Y,CPP_4
+CS Energy Limited,Callide Power Station,QLD1,Generating Unit,Market,Non-Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,1,N,-
+CS Energy Limited,Callide Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,1,Y,CALL_B_1
+CS Energy Limited,Callide Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,2,Y,CALL_B_2
+Canunda Power Pty Ltd,Canunda Wind Farm,SA1,Generating Unit,Market,Non-Scheduled*,Wind,Wind,Renewable,Wind - Onshore,Jan-23,Y,CNUNDAWF
+Bulgana Wind Farm Pty Ltd,Bulgana Green Power Hub,VIC1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery,Jan-40,Y,BULBES1
+Iberdrola Australia Holdings Pty Limited,Capital East Solar Farm,NSW1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,1-Apr,N,CESF1
+Iberdrola Australia Holdings Pty Limited,Capital Wind Farm,NSW1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-67,N,CAPTL_WF
+Hydro-Electric Corporation,Catagunya / Liapootah / Wayatinah Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Aug,Y,LI_WY_CA
+Cathedral Rocks Wind Farm Pty Ltd,Cathedral Rocks,SA1,Generating Unit,Market,Non-Scheduled*,Wind,Wind,Renewable,Wind - Onshore,Jan-33,Y,CATHROCK
+Wild Cattle Hill Pty Ltd,Cattle Hill Wind Farm,TAS1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-48,Y,CTHLWF1
+Hydro-Electric Corporation,Cethana Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,CETHANA
+Pacific Hydro Challicum Hills Pty Ltd,Challicum Hills Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-35,Y,CHALLHWF
+AETV Pty Ltd,Chepstowe Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-Mar,N,CHPSTWF1
+Cherry Tree Wind Farm Pty Ltd as trustee for The Cherry Tree Project trust ,Cherry Tree Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-16,Y,CHYTWF1
+Childers Solar Pty Ltd ATF The Childers Solar Trust,Childers Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-37,Y,CHILDSF1
+Capital Battery Pty Ltd as Trustee for Capital Battery Trust,Capital Battery,NSW1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-33,Y,CAPBES1
+CS Energy Limited,"Chinchilla BESS, Units 1-80",QLD1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-80,Y,CHBESS1
+South Australian Water Corporation ,Christies Beach Wastewater Treatment Plant,SA1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Biogas - sludge,Combustion,Compression Reciprocating Engine,1,N,CBWWBG1
+South Australian Water Corporation ,Christies Beach Wastewater Treatment Plant,SA1,Generating Unit,Market,Non-Scheduled,Fossil,Diesel,Combustion,Compression Reciprocating Engine,1-Feb,N,CBWWDG1
+South Australian Water Corporation ,Christies Beach Wastewater Treatment Plant,SA1,Generating Unit,Market,Non-Scheduled,Fossil,Diesel,Combustion,Compression Reciprocating Engine,1,N,CBWWDG2
+South Australian Water Corporation ,Christies Beach Wastewater Treatment Plant,SA1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1,N,CBWWPV1
+South Australian Water Corporation ,Christies Beach Wastewater Treatment Plant,SA1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-40,N,CBWWPV2
+Clare Solar Farm Pty Ltd,Clare Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-69,Y,CLARESF1
+Stanwell Corporation Limited ,Clarke Creek Wind Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-77,Y,CLRKCWF1
+Stanwell Corporation Limited ,Clarke Creek Wind Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,78-100,Y,CLRKCWF2
+EDL LFG (Vic) Pty Ltd,Clayton Landfill Gas Power Station,VIC1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-Nov,N,CLAYTON
+Pacific Hydro Clements Gap Pty Ltd,Clements Gap Wind Farm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-27,N,CLEMGPWF
+Clermont Asset Co Pty Ltd ATF Clermont Solar Unit Trust,Clermont Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-37,Y,CLERMSF1
+AGL Hydro Partnership,Clover Power Station,VIC1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Feb,Y,CLOVER
+Hydro-Electric Corporation,Cluny Power Station,TAS1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,CLUNY
+Energy Pacific (Vic) Pty Ltd,Codrington Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-14,N,CODRNGTON
+Enel Energy Australia Pty Ltd,Cohuna Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-19,Y,COHUNSF1
+Coleambally Solar Pty Ltd,Coleambally Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-90,Y,COLEASF1
+Collector Wind Farm Pty Ltd,Collector Wind Farm 1,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-54,Y,COLWF01
+Braemar Power Project Pty Ltd ,Collinsville Solar PV Power Station,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,Jan-17,Y,CSPVPS1
+Snowy Hydro Limited,Colongra Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,CG1
+Snowy Hydro Limited,Colongra Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2,Y,CG2
+Snowy Hydro Limited,Colongra Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),3,Y,CG3
+Snowy Hydro Limited,Colongra Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),4,Y,CG4
+Columboola Solar Farm Nominees Pty Ltd as Trustee for Columboola Solar Farm Op Trust,Columboola Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-79,Y,COLUMSF1
+QGC Sales Qld Pty Ltd,Condamine Power Station A,QLD1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),1-Mar,Y,CPSA
+Cape Byron Management Pty Ltd,Condong Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Bagasse,Combustion,Steam Sub-Critical,1,N,CONDONG1
+Coonooer Bridge Wind Farm Pty Ltd,Coonooer Bridge Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1,N,CBWF1
+PARF Company 10 Pty Limited as The Trustee for Coopers Gap Project Trust,Coopers Gap Wind Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-123,Y,COOPGWF1
+AGL Hydro Partnership,Copeton Hydro Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,COPTNHYD
+Corowa Operationsco Pty Ltd As The Trustee For Corowa Operations Trust,Corowa Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-22,Y,CRWASF1
+Crookwell Development Pty Ltd ,Crookwell 2 Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-28,Y,CROOKWF2
+Crookwell 3 Development Pty Ltd,Crookwell 3 Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-16,N,CROOKWF3
+Pacific Hydro Crowlands Pty Ltd ,Crowlands Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-39,Y,CROWLWF1
+CRWF Nominees Pty Ltd As Trustee For The CRWF Trust,Crudine Ridge Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore, 1-37,Y,CRURWF1
+Culcairn Solar Farm Pty Ltd as trustee for Culcairn Solar Farm Trust,Culcairn Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,1-111,Y,CUSF1
+Cullerin Range Wind Farm Pty Ltd,Cullerin Range Wind Farm,NSW1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-15,N,CULLRGWF
+CS Energy Limited,Greenbank BESS,QLD1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery,1-108,Y,GREENB1
+Origin Energy Electricity Limited,Darling Downs Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),1-Apr,Y,DDPS1
+Darling Downs Solar Farm Pty Ltd ,Darling Downs Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar ,Renewable,Photovoltaic Flat Panel,Jan-44,Y,DDSF1
+EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,VIC1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery,Jan-17,Y,BALB1
+Darlington Point Solar Farm Pty Ltd ,Darlington Point Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-108,Y,DARLSF1
+AGL Hydro Partnership,Dartmouth Power Station,VIC1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,DARTM1
+Daydream Solar Farm Pty Ltd As The Trustee For The Daydream Solar Farm Trust,Daydream Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-61,Y,DAYDSF1
+Hydro-Electric Corporation,Devils Gate Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,DEVILS_G
+Y.E.S. Energy (SA) Pty Ltd,Diapur Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-Feb,N,DIAPURWF1
+Synergen Power Pty Limited,Dry Creek Gas Turbine Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,DRYCGT1
+Synergen Power Pty Limited,Dry Creek Gas Turbine Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2,Y,DRYCGT2
+Synergen Power Pty Limited,Dry Creek Gas Turbine Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),3,Y,DRYCGT3
+Dulacca Energy Project Co Pty Ltd,Dulacca Wind Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-43,Y,DULAWF1
+Dundonnell Wind Farm Pty Ltd,Dundonnell Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-40,Y,DUNDWF1
+Dundonnell Wind Farm Pty Ltd,Dundonnell Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,41-51,Y,DUNDWF2
+Dundonnell Wind Farm Pty Ltd,Dundonnell Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,52-80,Y,DUNDWF3
+LMS Energy Pty Ltd,Eastern Creek 2 Gas Utilisation Facility,NSW1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-Jun,Y,EASTCRK2
+EDL LFG (NSW) Pty Ltd,Eastern Creek LFG PS Units 1-4,NSW1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-Apr,N,EASTCRK
+Edenvale Solar Park Pty Ltd,Edenvale Solar Park,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-72,Y,EDENVSF1
+AGL Hydro Partnership,Eildon Power Station,VIC1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Feb,Y,EILDON1
+AGL Hydro Partnership,Eildon Power Station,VIC1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,3-Apr,Y,EILDON2
+Pacific Hydro Investments Pty Ltd,Eildon Power Station,VIC1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Run of River,1,N,EILDON3
+Lal Lal Wind Farms Nom Co Pty Ltd,Elaine Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-22,Y,ELAINWF1
+Telstra Energy (Generation) Pty Ltd,Emerald Solar Park,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-32,N,EMERASF1
+EnergyAustralia Pty Ltd,Darlington Point Energy Storage System,NSW1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-16,Y,DPNTB1
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,1,Y,ER01
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,2,Y,ER02
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,3,Y,ER03
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,4,Y,ER04
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Fossil,Diesel,Combustion,Open Cycle Gas turbines (OCGT),1,N,ERGT01
+Diamond Energy Pty Ltd,Ferguson North Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1,N,FNWF1
+Y.E.S. Energy (SA) Pty Ltd,Ferguson South Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,2,N,FSWF1
+Finley Solar Farm Pty Ltd as trustee for the Finley Solar Trust,Finley Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar ,Renewable,Photovoltaic Tracking Flat Panel,99,Y,FINLYSF1
+Hydro-Electric Corporation,Fisher Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,FISHER
+Iberdrola Australia Energy Markets Pty Limited,Flyers Creek Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-38,N,FLYCRKWF
+Shell New Energies Australia Pty Ltd,Gangarri Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,Jan-54,Y,GANGARR1
+EnergyAustralia Pty Ltd,Gannawarra Energy Storage System,VIC1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery,Jan-50,Y,GANNB1
+Gannawarra Solar Farm Pty Ltd,Gannawarra Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-22,Y,GANNSF1
+EDL CSM (QLD) Pty Ltd,German Creek Power Station,QLD1,Generating Unit,Market,Non-Scheduled,Fossil,Waste Coal Mine Gas,Combustion,Spark Ignition Reciprocating Engine,Jan-20,N,GERMCRK
+Enel Energy Australia Pty Ltd,Girgarre Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-57,Y,GIRGSF
+CS Energy Limited,Gladstone Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,1,Y,GSTONE1
+CS Energy Limited,Gladstone Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,2,Y,GSTONE2
+CS Energy Limited,Gladstone Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,3,Y,GSTONE3
+CS Energy Limited,Gladstone Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,4,Y,GSTONE4
+CS Energy Limited,Gladstone Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,5,Y,GSTONE5
+CS Energy Limited,Gladstone Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,6,Y,GSTONE6
+AGL Hydro Partnership,Glenbawn Hydro Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,GLBWNHYD
+Pacific Hydro Investments Pty Ltd,Glenmaggie Hydro Power Station,VIC1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Run of River,1,N,GLENMAG1
+EDL (OCI) Pty Limited,Glennies Creek Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Fossil,Waste Coal Mine Gas,Combustion,Compression Reciprocating Engine,1-Dec,Y,GLENNCRK
+Glenrowan Solar Farm Pty Ltd as trustee for Glenrowan Solar Farm Trust,Glenrowan Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,Jan-30,N,GLENSF1
+Wirtgen Energy Glenrowan Pty Ltd,Glenrowan West Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,Jan-48,Y,GLRWNSF1
+Golden Plains WF1 Pty Ltd as Trustee for the Golden Plains WF1 Unit Trust,Golden Plains Wind Farm East,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-40,Y,GPWFEST1
+Golden Plains WF1 Pty Ltd as Trustee for the Golden Plains WF1 Unit Trust,Golden Plains Wind Farm East,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,41-82,Y,GPWFEST2
+Golden Plains WF1 Pty Ltd as Trustee for the Golden Plains WF1 Unit Trust,Golden Plains Wind Farm East,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,83-122,Y,GPWFEST3
+Goonumbla Asset Co Pty Ltd as the Trustee for Goonumbla Asset Trust ,Goonumbla Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,Jan-31,Y,GOONSF1
+Hydro-Electric Corporation,Gordon Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Mar,Y,GORDON
+Goyder Wind Farm 1 Pty Ltd as the Trustee for Goyder Wind Farm 1 Trust,Goyder South Wind Farm 1A,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-38,N,GSWF1A
+Goyder Wind Farm 1B Pty Ltd as the Trustee for the Goyder Wind Farm 1B Trust,Goyder South Wind Farm 1B,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-37,N,GSWF1B1
+EDL LFG (NSW) Pty Ltd,Grange Avenue Landfill Gas Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1,N,GRANGEAV
+Granville Harbour Operations Pty Ltd as The Trustee for Granville Harbour Operations Trust,Granville Harbour Wind Farm,TAS1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-31,Y,GRANWF1
+EnergyAustralia Pty Ltd,Riverena Energy Storage System 2,NSW1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-52,Y,RIVNB2
+Griffith Solar Farm Pty Ltd,Griffith Solar Farm,NSW1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Dec,Y,GRIFSF1
+EDL Projects (Australia) Pty Ltd,Grosvenor 1 Waste Coal Mine Gas Power Station,QLD1,Generating Unit,Market,Non-Scheduled,Fossil,Waste Coal Mine Gas,Combustion,Spark Ignition Reciprocating Engine,1-Jul,Y,GROSV1
+EDL Projects (Australia) Pty Ltd,Grosvenor 2,QLD1,Generating Unit,Market,Non-Scheduled,Fossil,Waste Coal Mine Gas,Combustion,Spark Ignition Reciprocating Engine,1-May,Y,GROSV2
+New Gullen Range Wind Farm Pty Ltd,Gullen Range Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,1-Apr,Y,GULLRSF1
+New Gullen Range Wind Farm Pty Ltd,Gullen Range Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-73,N,GULLRWF1
+New Gullen Range Wind Farm Pty Ltd,Gullen Range Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,74-104,Y,GULLRWF2
+Gunnedah SF Pty Ltd as Trustee for Gunnedah Asset Trust,Gunnedah Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-90,Y,GNNDHSF1
+Gunning Wind Energy Developments Pty Ltd,Gunning Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-31,N,GUNNING1
+Snowy Hydro Limited,Guthega Power Station,NSW1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Feb,Y,GUTHEGA
+LMS Energy Pty Ltd,Hallam Road Renewable Energy Facility,VIC1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-Aug,N,HALAMRD1
+AGL SA Generation Pty Limited,Hallett 1 Wind Farm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-45,N,HALLWF1
+AGL SA Generation Pty Limited,Hallett 2 Wind Farm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-34,N,HALLWF2
+EnergyAustralia Yallourn Pty Ltd,Hallett Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas / Diesel,Combustion,Open Cycle Gas turbines (OCGT),Jan-13,Y,AGLHAL
+Hamilton Solar Farm Pty Ltd,Hamilton Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,,Y,HAMISF1
+Equis Energy (Australia) Projects (MREH A1 AssetCo) Pty Ltd as trustee for Equis Energy (Australia) MREH A1 Asset Trust,Melbourne Renewable Energy Hub Connection A1,VIC1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,1-112,Y,MREHA1
+South Australian Water Corporation,Happy Valley Water Treatment Plant,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Apr,Y,HVWWPV1
+Progressive Green Pty Ltd,Hastings Generation Site,VIC1,Generating Unit,Market,Non-Scheduled,Fossil,Ethane,Combustion,Open Cycle Gas turbines (OCGT),1,N,"HASTING1
+"
+Progressive Green Pty Ltd,Hastings Generation Site,VIC1,Generating Unit,Market,Non-Scheduled,Fossil,Ethane,Combustion,Open Cycle Gas turbines (OCGT),2,N,"HASTING2
+"
+Progressive Green Pty Ltd,Hastings Generation Site,VIC1,Generating Unit,Market,Non-Scheduled,Fossil,Ethane,Combustion,Open Cycle Gas turbines (OCGT),3,N,HASTING3
+Pacific Hydro Haughton Solar Farm Pty Ltd,Haughton Solar Farm Stage 1,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-81,Y,HAUGHT11
+Hawkesdale Asset Pty Ltd as trustee for Hawkesdale Asset Trust,Hawkesdale Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1–23 ,N,HD1WF1
+Hayman Solar Farm Pty Ltd As The Trustee For The Hayman Solar Farm Trust,Hayman Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-21,Y,HAYMSF1
+Equis Energy (Australia) Projects (MREH A2 AssetCo) Pty Ltd as The Trustee for Equis Energy (Australia) MREH A2 Asset Trust ,Melbourne Renewable Energy Hub Connection A2,VIC1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,1-112,Y,MREHA2
+Progressive Green Pty Ltd,Hepburn Community Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1 & 2,N,HEPWIND1
+Hillston Sun Farm Operations Pty Ltd ATF Hillston Sun Farm Operations Trust,Hillston Sun Farm ,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-40,Y,HILLSTN1
+Hazelwood BESS Project Co Pty Ltd as Trustee for the HBESS Asset Trust,Hazelwood Battery Energy Storage System,VIC1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-57,Y,HBESS1
+HWF1 Pty Ltd,Hornsdale Wind Farm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-32,Y,HDWF1
+HWF 2 Pty Ltd,Hornsdale Wind Farm 2,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-32,Y,HDWF2
+HWF3 Pty Ltd,Hornsdale Wind Farm 3,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-35,Y,HDWF3
+Hughenden Solar Pty Limited As Trustee For Hughenden Solar Trust,Hughenden Solar Farm,QLD1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-18,Y,HUGSF1
+GSP Energy Pty Ltd,Hume (NSW) Hydro Power Station,NSW1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Feb,Y,HUMENSW
+GSP Energy Pty Ltd,Hume (Vic) Hydro Power Station,VIC1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Feb,Y,HUMEV
+Snowy Hydro Limited,Hunter Economic Zone,NSW1,Generating Unit,Market,Scheduled,Fossil,Diesel,Combustion,Compression Reciprocating Engine,Jan-16,N,HEZ1
+Snowy Hydro Limited,Hunter Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Natrual Gas/ Diesel,Combustion,OCGT,1,N,HUNTER1 
+Snowy Hydro Limited,Hunter Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Natrual Gas/ Diesel,Combustion,OCGT,2,N,HUNTER2
+Stanwell Corporation Limited,Invicta Sugar Mill,QLD1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Bagasse,Combustion,Steam Sub-Critical,1-Mar,N,INVICTA
+Moranbah Power Station No1 Pty Ltd,ISIS Central Sugar Mill Co-generation Plant,QLD1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Bagasse,Combustion,Steam Sub-Critical,1,N,ICSM
+EDL LFG (NSW) Pty Ltd,Jacks Gully Landfill Gas Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,1-Feb,N,JACKSGUL
+EnergyAustralia Ecogen Pty Ltd,"Jeeralang ""A"" Power Station",VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,JLA01
+EnergyAustralia Ecogen Pty Ltd,"Jeeralang ""A"" Power Station",VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2,Y,JLA02
+EnergyAustralia Ecogen Pty Ltd,"Jeeralang ""A"" Power Station",VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),3,Y,JLA03
+EnergyAustralia Ecogen Pty Ltd,"Jeeralang ""A"" Power Station",VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),4,Y,JLA04
+EnergyAustralia Ecogen Pty Ltd,"Jeeralang ""B"" Power Station",VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,JLB01
+EnergyAustralia Ecogen Pty Ltd,"Jeeralang ""B"" Power Station",VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2,Y,JLB02
+EnergyAustralia Ecogen Pty Ltd,"Jeeralang ""B"" Power Station",VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),3,Y,JLB03
+Diamond Energy Pty Ltd,Jemalong Solar Project,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-20,Y,JEMALNG1
+Snowy Hydro Limited,Jindabyne Pump At Guthega  ,VIC1,Generating Unit,Non-Market,Non-Scheduled,,,,,1,N,-
+Snowy Hydro Limited,Jindabyne Small Hydro Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,JNDABNE1
+Hydro-Electric Corporation,John Butters Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,JBUTTERS
+Snowy Hydro Limited,Jounama Small Hydro Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,JOUNAMA1
+Junee Operationsco Pty Ltd Atf Junee Operations Trust,Junee Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-22,Y,JUNEESF1
+Kaban Wind Farm Pty Ltd as trustee for Kaban Wind Farm Trust,Kaban Wind Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-28,Y,KABANWF1
+Iraak Sun Farm Pty Ltd,Karadoc Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,Jan-38,Y,KARSF1
+CleanCo Queensland Limited,Kareeya Power Station,QLD1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Run of River,1,Y,KAREEYA1
+CleanCo Queensland Limited,Kareeya Power Station,QLD1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Run of River,2,Y,KAREEYA2
+CleanCo Queensland Limited,Kareeya Power Station,QLD1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Run of River,3,Y,KAREEYA3
+CleanCo Queensland Limited,Kareeya Power Station,QLD1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Run of River,4,Y,KAREEYA4
+CleanCo Queensland Limited,Kareeya Power Station,QLD1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Run of River,5,N,KAREEYA5
+GSP Energy Pty Ltd,Keepit Hydro Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,KEEPIT
+Kennedy Energy Park Pty Ltd,Kennedy Energy Park,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Jun,Y,KEPSF1
+Kennedy Energy Park Pty Ltd,Kennedy Energy Park,QLD1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-Dec,Y,KEPWF1
+Kennedy Energy Park Pty Ltd,Kennedy Energy Park Battery,QLD1,Generating Unit,Market,Non-Scheduled,Battery storage,Grid,Storage,Battery,1-Apr,Y,KEPBG1
+Kennedy Energy Park Pty Ltd,Kennedy Energy Park Battery,QLD1,Load,Market,Non-Scheduled,Battery storage,Grid,Storage,Battery,1-Apr,Y,KEPBL1
+Kerang Solar Plant Pty Ltd,Kerang Solar Plant,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,1-Sep,Y,KERNGSP1
+KSF Project Nominees Pty Ltd As The Trustee For KSF Project Trust,Kiamal Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,1-150,Y,KIAMSF1
+Kiata ProjectCo Pty Ltd Atf Kiata Project Trust,Kiata Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-Sep,N,KIATAWF1
+Diamond Energy Pty Ltd,Kidston Solar Project Phase One,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,Jan-20,Y,KSP1
+Kingaroy Propertyco Pty Ltd as Trustee for Kingaroy Property Trust,Kingaroy Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-29,N,KINGASF1
+CS Energy Limited,Kogan Creek Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Super Critical,1,Y,KPP_1
+Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,SA1,Bidirectional Unit,Market,Scheduled,Battery storage,Wind,Storage,Battery and Inverter,1-294,N,HPR1
+Origin Energy Electricity Limited,Ladbroke Grove Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,LADBROK1
+Origin Energy Electricity Limited,Ladbroke Grove Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2,Y,LADBROK2
+Iberdrola Australia Wallgrove Pty Limited,Wallgrove BESS 1,NSW1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-36,Y,WALGRV1
+Lake Bonney Wind Power Pty Ltd,Lake Bonney Stage 2 Windfarm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-53,N,LKBONNY2
+Lake Bonney Wind Power Pty Ltd,Lake Bonney Stage 3 Wind Farm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-13,N,LKBONNY3
+Lake Bonney Wind Power Pty Ltd,Lake Bonney Wind Farm Stage 1,SA1,Generating Unit,Market,Non-Scheduled*,Wind,Wind,Renewable,Wind - Onshore,Jan-46,Y,LKBONNY1
+Hydro-Electric Corporation,Lake Echo Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,LK_ECHO
+Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,SA1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery,Jan-48,Y,LBB1
+Snowy Hydro Limited,Laverton North Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,LNGS1
+Snowy Hydro Limited,Laverton North Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2,Y,LNGS2
+Hydro-Electric Corporation,Lemonthyme / Wilmot Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Feb,Y,LEM_WIL
+Ergon Energy Queensland Pty Ltd ,Lilyvale Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-74,Y,LILYSF1
+Limondale Sun Farm Pty Ltd,Limondale Solar Farm 1,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,1-100,Y,LIMOSF11
+Limondale Sun Farm Pty Ltd,Limondale Solar Farm 2,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,Jan-14,Y,LIMOSF21
+Lincoln Gap Wind Farm (Operations) Pty Ltd,Lincoln Gap Wind Farm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-35,Y,LGAPWF1
+Lincoln Gap Wind Farm (Operations) Pty Ltd,Lincoln Gap Wind Farm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,36-59,Y,LGAPWF2
+Diamond Energy Pty Ltd,Longreach Solar Farm,QLD1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Jul,Y,LRSF1
+Snowy Hydro Limited,Lonsdale Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Diesel,Combustion,Compression Reciprocating Engine,Jan-18,Y,LONSDALE
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Brown Coal,Combustion,Steam Sub-Critical,1,Y,LYA1
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Brown Coal,Combustion,Steam Sub-Critical,2,Y,LYA2
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Brown Coal,Combustion,Steam Sub-Critical,3,Y,LYA3
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Brown Coal,Combustion,Steam Sub-Critical,4,Y,LYA4
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Brown Coal,Combustion,Steam Sub-Critical,1,Y,LOYYB1
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Brown Coal,Combustion,Steam Sub-Critical,2,Y,LOYYB2
+EDL LFG (NSW) Pty Ltd,Lucas Heights 2 Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,Dec-15,N,LUCAS2S2
+EDL LFG (NSW) Pty Ltd,Lucas Heights 2 Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-Nov,N,LUCASHGT
+AGL Hydro Partnership,Macarthur Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-140,N,MACARTH1
+MacIntyre UJV Operator Pty Ltd,MacIntyre Wind Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-162,Y,MCINTYR1
+Hydro-Electric Corporation,Mackintosh Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,MACKNTSH
+Manildra Prop Pty Ltd as The Trustee for the Manildra Asset Trust,Manildra solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,Jan-20,Y,MANSLR1
+South Australian Water Corporation  ,"Mannum - Adelaide Pipeline Pumping Station No 2, PV Units 1-6",SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Jun,Y,MAPS2PV1
+South Australian Water Corporation  ,"Mannum - Adelaide Pipeline Pumping Station No 3, PV Units 1-6",SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Jun,Y,MAPS3PV1
+Mannum Stage 2 SubCo Pty Ltd as The Trustee for Mannum Stage 2 Unit Trust,Mannum 2 Solar Farm,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Nov,Y,MANNSF2
+Latrobe Valley BESS as the Trustee for Latrobe Valley BESS Project Trust,Latrobe Valley BESS,VIC1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-32,Y,LVES1
+Alinta Energy Retail Sales Pty Ltd,Maroona Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-Feb,Y,MAROOWF1
+Diamond Energy Pty Ltd,Maryrorough Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Dec,Y,MARYRSF1
+Hydro-Electric Corporation,Meadowbank Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,MEADOWBK
+Landfill Operations Pty Ltd,Melbourne Regional Landfill,VIC1,Generating Unit,Non-Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-Aug,N,-
+ Equis Energy (Australia) Projects (MREH A3 AssetCo) Pty Ltd as The Trustee for Equis Energy (Australia) MREH A3 Asset Trust,Melbourne Renewable Energy Hub Connection A3,VIC1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,1-220,Y,MREHA3
+Mannum Stage 2 Battery SubCo Pty Ltd as trustee for the Mannum Stage 2 Battery Unit Trust,Mannum Battery Energy Storage System,SA1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-80,Y,MANNUMB1
+Mondo Metering Pty Ltd,Phillip Island BESS,VIC1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,1-May,Y,PIBESS1
+Metz ProjectCo Pty Ltd As The Trustee For Metz ProjectCo Trust,Metz Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-54,Y,METZSF1
+Capricorn SF No1 Pty Ltd ,Middlemount Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Dec,N,MIDDLSF1
+Tasmanian Irrigation Pty Ltd,Midlands Power Station,TAS1,Generating Unit,Non-Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,-
+Millmerran Energy Trader Pty Ltd,Millmerran Power Plant,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Super Critical,1,Y,MPP_1
+Millmerran Energy Trader Pty Ltd,Millmerran Power Plant,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Super Critical,2,Y,MPP_2
+Synergen Power Pty Limited,Mintaro Gas Turbine Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,MINTARO
+EE Solar 6 Pty Ltd as trustee for EE Solar 6 Trust,Mokoan Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-16,Y,MOKOSF1
+Molong Operationsco Pty Ltd As The Trustee For Molong Operations Trust,Molong Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-22,Y,MOLNGSF1
+Moorabool Wind Farm Interface Company Pty Ltd,Moorabool Wind Farm ,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-104,Y,MOORAWF1
+Moranbah Power Station No1 Pty Ltd,Moranbah Generation Project,QLD1,Generating Unit,Market,Non-Scheduled,Fossil,Coal Seam Methane,Combustion,Compression Reciprocating Engine,1-Aug,N,MORANBAH
+EDL Projects (Australia) Pty Ltd,Moranbah North Waste Coal Mine Gas Power Station,QLD1,Generating Unit,Market,Non-Scheduled,Fossil,Waste Coal Mine Gas,Combustion,Spark Ignition Reciprocating Engine,Jan-21,N,MBAHNTH
+Moree Asset Co Pty Ltd as the trustee for Moree Asset Trust,Moree Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-56,N,MOREESF1
+South Australian Water Corporation,Morgan-Whyalla Pipeline Pumping Station No 1,SA1,Generating Unit,Market,Semi-Scheduled,Solar,solar,Renewable,Photovoltaic Tracking Flat panel,1-Feb,Y,MWPS1PV1
+South Australian Water Corporation,Morgan-Whyalla Pipeline Pumping Station No 2,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Feb,Y,MWPS2PV1
+South Australian Water Corporation,Morgan-Whyalla Pipeline Pumping Station No 3,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Mar,Y,MWPS3PV1
+South Australian Water Corporation,Morgan-Whyalla Pipeline Pumping Station No 4,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Feb,Y,MWPS4PV1
+Origin Energy Electricity Limited,Mortlake Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,MORTLK11
+Origin Energy Electricity Limited,Mortlake Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,MORTLK12
+Mortlake South Wind Farm Pty Ltd,Mortlake South Wind Farm,VIC1,Generating Unit,market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-35,Y,MRTLSWF1
+Mortons Lane Windfarm Pty Limited,Mortons Lane Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-13,N,MLWF1
+Ergon Energy Queensland Pty Ltd ,Mount Emerald Wind Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-53,N,MEWF1
+Moura Solar Farm SPV Pty Ltd as the trustee for Moura Solar Farm Unit Trust,Moura Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel, 1-36,Y,MOUSF1
+Mt. Gellibrand Wind Farm Pty Ltd,Mt Gellibrand Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-47,Y,MTGELWF1
+Mt Mercer Windfarm Pty Ltd,Mt Mercer Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-64,N,MERCER01
+Mt Millar Wind Farm Pty Ltd,Mt Millar Wind Farm,SA1,Generating Unit,Market,Non-Scheduled*,Wind,Wind,Renewable,Wind - Onshore,Jan-35,Y,MTMILLAR
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,1,Y,MP1
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,2,Y,MP2
+Origin Energy Electricity Limited,Mt Stuart Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Kerosene,Combustion,Open Cycle Gas turbines (OCGT),1,Y,MSTUART1
+Origin Energy Electricity Limited,Mt Stuart Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Kerosene,Combustion,Open Cycle Gas turbines (OCGT),2,Y,MSTUART2
+Origin Energy Electricity Limited,Mt Stuart Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Kerosene,Combustion,Open Cycle Gas turbines (OCGT),3,Y,MSTUART3
+Mugga Lane Solar Park Pty Ltd,Mugga Lane Solar Park,NSW1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1,Y,MLSP1
+Telstra Energy (Generation) Pty Ltd,Murra Warra Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-61,Y,MUWAWF1
+Murra Warra II Project Co Pty Ltd ATF The Murra Warra II Project Trust,Murra Warra Wind Farm Stage 2,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-38,Y,MUWAWF2
+South Australian Water Corporation ,Murray Bridge-Onkaparinga Pipeline Pumping Station No 2,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-May,Y,MBPS2PV1
+Snowy Hydro Limited,Murray Power Station,VIC1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,Jan-14,Y,MURRAY
+Hydro-Electric Corporation,Musselroe Wind Farm,TAS1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-56,N,MUSSELR1
+Dubbo Solar Hub Pty Ltd,Narromine Solar Farm,NSW1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Apr,N,NASF1
+Nevertire Solar Pty Ltd as Trustee for Nevertire Solar Trust,Nevertire Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-48,N,NEVERSF1
+New England Solar Farm as Trustee of the New England Solar Project Trust,New England Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-144,Y,NEWENSF1
+New England Solar Farm as Trustee of the New England Solar Project Trust,New England Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,145-288,Y,NEWENSF2
+EnergyAustralia Ecogen Pty Ltd,Newport Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Steam Sub-Critical,1,Y,NPS
+AGL SA Generation Pty Limited,North Brown Hill Wind Farm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-63,N,NBHWF1
+Numurkah Solar Farm Pty Ltd,Numurkah Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-56,Y,NUMURSF1
+PARF Company 6 Pty Ltd as The Trustee for Project Trust,Nyngan Solar Plant,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,1-154,N,NYNGAN1
+Diamond Energy Pty Ltd,Oakey 1 Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Dec,Y,OAKEY1SF
+Diamond Energy Pty Ltd,Oakey 2 Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-26,Y,OAKEY2SF
+Shell Energy Retail Pty Ltd,Oakey Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,OAKEY1
+Shell Energy Retail Pty Ltd,Oakey Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2,Y,OAKEY2
+AGL Hydro Partnership,Oaklands Hill Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-32,N,OAKLAND1
+EDL (OCI) Pty Limited,Oaky Creek 2,QLD1,Generating Unit,Market,Non-Scheduled,Fossil,Waste Coal Mine Gas,Combustion,Spark Ignition Reciprocating Engine,1-May,Y,OAKY2
+EDL (OCI) Pty Limited,Oaky Creek Power Station,QLD1,Generating Unit,Market,Non-Scheduled,Fossil,Coal Seam Methane,Combustion,Compression Reciprocating Engine,Jan-16,Y,OAKYCREK
+Origin Energy Electricity Limited,Osborne Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),1-Feb,Y,OSB-AG
+Hydro-Electric Corporation,Paloona Power Station,TAS1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,PALOONA
+Parkes Solar Farm Pty Ltd,Parkes Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,Jan-22,Y,PARSF1
+Pelican Point Power Limited,Pelican Point Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),1-Mar,Y,PPCCGT
+Munmorah Battery ProjectCo Pty Ltd ,Waratah Super Battery,NSW1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,1-288,Y,WTAHB1
+AGL Hydro Partnership,Pindari Hydro Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,PINDARI
+Pioneer Sugar Mills Pty Ltd,Pioneer Sugar Mill,QLD1,Generating Unit,Non-Market,Non-Scheduled,Renewable/ Biomass / Waste,Bagasse,Combustion,Steam Sub-Critical,1,N,-
+Pioneer Sugar Mills Pty Ltd,Pioneer Sugar Mill,QLD1,Generating Unit,Non-Market,Non-Scheduled,Renewable/ Biomass / Waste,Bagasse,Combustion,Steam Sub-Critical,2,N,-
+Hydro-Electric Corporation,Poatina Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Feb,Y,POAT110
+Hydro-Electric Corporation,Poatina Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,3-Jun,Y,POAT220
+Iberdrola Australia Energy Markets Pty Limited,Port Augusta Renewable Energy Park,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,Jan-36,Y,PAREPS1
+Iberdrola Australia Energy Markets Pty Limited,Port Augusta Renewable Energy Park,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-50,Y,PAREPW1
+Synergen Power Pty Limited,Port Lincoln Gas Turbine,SA1,Generating Unit,Market,Scheduled,Fossil,Diesel,Combustion,Open Cycle Gas turbines (OCGT),1-Feb,Y,POR01
+Synergen Power Pty Limited,Port Lincoln Gas Turbine,SA1,Generating Unit,Market,Scheduled,Fossil,Diesel,Combustion,Open Cycle Gas turbines (OCGT),PL3,Y,POR03
+Pacific Hydro Portland Wind Farm Pty Ltd,Portland Wind Farm,VIC1,Generating Unit,Non-Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,74,N,-
+Snowy Hydro Limited,Pt Stanvac Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Diesel,Combustion,Compression Reciprocating Engine,Jan-36,Y,PTSTAN1
+Origin Energy Electricity Limited,Quarantine Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,QPS1
+Origin Energy Electricity Limited,Quarantine Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2,Y,QPS2
+Origin Energy Electricity Limited,Quarantine Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),3,Y,QPS3
+Origin Energy Electricity Limited,Quarantine Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),4,Y,QPS4
+Origin Energy Electricity Limited,Quarantine Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),5,Y,QPS5
+Origin Energy Electricity Limited,Eraring Battery Energy Storage System,NSW1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery,140,Y,ERB01 
+Berrybank 2 Asset Pty Ltd as trustee for Berrybank 2 Asset Trust,Queanbeyan BESS,NSW1,Generating Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter, 1-8,Y,QBYNBG1
+Berrybank 2 Asset Pty Ltd as trustee for Berrybank 2 Asset Trust,Queanbeyan BESS,NSW1,Load,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter, 1-8,Y,QBYNBL1
+Mackay Sugar Limited,Racecourse Mill Power Station,QLD1,Generating Unit,Non-Market,Non-Scheduled,Renewable/ Biomass / Waste,Bagasse,Combustion,Steam Sub-Critical,1-Mar,N,RACOMIL1
+Shell Energy Retail Pty Ltd,Koorangie Energy Storage System,VIC1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,1-100,Y,KESSB1
+Hydro-Electric Corporation,Reece Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,REECE1
+Hydro-Electric Corporation,Reece Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,2,Y,REECE2
+Hydro-Electric Corporation,Repulse Power Station,TAS1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,REPULSE
+Shell Energy Retail Pty Ltd,Rangebank BESS,VIC1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-64,Y,RANGEB1
+Shell Energy Retail Pty Ltd,Riverina Energy Storage System 1,NSW1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-48,Y,RESS1
+W.H. Heck & Sons Proprietary Limited,Rocky Point Cogeneration Plant,QLD1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Bagasse,Combustion,Steam Sub-Critical,1,N,RPCG
+Origin Energy Electricity Limited,Roma Gas Turbine Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),7,Y,ROMA_7
+Origin Energy Electricity Limited,Roma Gas Turbine Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),8,Y,ROMA_8
+Ross River Operations Pty Ltd as the Trustee for the Ross River Operations Trust ,Ross River Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-64,Y,RRSF1
+Hydro-Electric Corporation,Rowallan Power Station,TAS1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,ROWALLAN
+Royalla Solar Farm Pty Limited,Royalla Solar Farm,NSW1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,Jan-20,N,ROYALLA1
+AGL Hydro Partnership,Rubicon Mountain Streams Station,VIC1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-May,Y,RUBICON
+Braemar Power Project Pty Ltd,Rugby Run Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-25,N,RUGBYR1
+Ryan Corner Development Pty Ltd,Ryan Corner Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-52,Y,RYANCWF1
+Rye Park Renewable Energy Pty Ltd as trustee for Rye Park Wind Farm Trust,Rye Park Renewable Energy,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-66,Y,RYEPARK1
+Salt Creek Wind Farm Pty Ltd,Salt Creek Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-15,Y,SALTCRK1
+The Trustee For The SWF1 Operations Trust,Sapphire Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-75,Y,SAPHWF1
+Sebastopol Asset Co Pty Ltd as Trustee for the Sebastopol Asset Trust,Sebastopol Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-40,Y,SEBSF1
+Diamond Energy Pty Ltd,Shepparton Wastewater Treatment Facility,VIC1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Sewerage / Waste Water,Combustion,Compression Reciprocating Engine,1,N,SHEP1
+Origin Energy Electricity Limited,Shoalhaven Power Station (Bendeela And Kangaroo Valley Power Station And Pumps),NSW1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Apr,Y,SHGEN
+Origin Energy Electricity Limited,Shoalhaven Power Station (Bendeela And Kangaroo Valley Power Station And Pumps),NSW1,Load,Market,Scheduled,-,-,-,-,1-Apr,Y,SHPUMP
+Shoalhaven Starches Pty Ltd,Shoalhaven Starches Cogeneration Plant,NSW1,Generating Unit,Non-Market,Non-Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1-Feb,Y,SHOAL1
+PARF Company 8 Pty Ltd as The Trustee for Silverton Project Trust,Silverton Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-58,Y,STWF1
+Smithfield Power Generation Pty Ltd,Smithfield Energy Facility,NSW1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),1-Mar,Y,SITHE01
+Port Adelaide Energy Pty Ltd,Snapper Point Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Diesel,Combustion,Open Cycle Gas turbines (OCGT),1-May,Y,SNAPPER1
+Snowtown Wind Farm Stage 2 Pty Ltd,Snowtown South Wind Farm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-42,N,SNOWSTH1
+Snowtown Wind Farm Stage 2 Pty Ltd,Snowtown Wind Farm Stage 2 North,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-48,N,SNOWNTH1
+Snowtown Wind Farm Pty Ltd,Snowtown Wind Farm Units 1 And 47,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-47,N,SNOWTWN1
+Synergen Power Pty Limited,Snuggery Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Diesel,Combustion,Open Cycle Gas turbines (OCGT),1,Y,SNUG1
+Synergen Power Pty Limited,Snuggery Power Station,SA1,Generating Unit,Non-Market,Non-Scheduled,Fossil,Diesel,Combustion,Open Cycle Gas turbines (OCGT),1,N,SNUG2
+Synergen Power Pty Limited,Snuggery Power Station,SA1,Generating Unit,Non-Market,Non-Scheduled,Fossil,Diesel,Combustion,Open Cycle Gas turbines (OCGT),1,N,SNUG3
+Synergen Power Pty Limited,Snuggery Power Station,SA1,Generating Unit,Non-Market,Non-Scheduled,Fossil,Diesel,Combustion,Open Cycle Gas turbines (OCGT),1,N,SNUGNL1
+AGL Hydro Partnership,Somerton Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1-Apr,Y,AGLSOM
+Progressive Green Pty Ltd,South East Water - Halllam Hydro Plant,VIC1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,HLMSEW01
+Dubbo Solar Hub Pty Ltd,South Keswick Solar Farm,NSW1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-Jun,N,SKSF1
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,1,Y,STAN-1
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,2,Y,STAN-2
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,3,Y,STAN-3
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,4,Y,STAN-4
+LMS Energy Pty Ltd,Stapylton Renewable Energy Facility,QLD1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-Apr,N,STAPYLTON1
+Starfish Hill Wind Farm Pty Ltd,Starfish Hill Wind Farm,SA1,Generating Unit,Market,Non-Scheduled*,Wind,Wind,Renewable,Wind - Onshore,Jan-23,Y,STARHLWF
+Stockyard Hill Wind Farm Pty Ltd,Stockyard Hill Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-149,Y,STOCKYD1
+Stubbo 1 Pty Ltd as The Trustee for Stubbo 1 Solar Project Trust,Stubbo Solar Farm 1,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,1-156,Y,STUBSF1
+Stubbo 1 Pty Ltd as The Trustee for Stubbo 1 Solar Project Trust,Stubbo Solar Farm 2,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,1-152,Y,STUBSF2
+Sun Metals Corporation Pty Ltd,Sun Metals Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,Jan-52,Y,SMCSF1
+Sunraysia Solar Project Pty Ltd As Trustee For Sunraysia Solar Project Trust,SUNRAYSIA SF,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,1-104,Y,SUNRSF1
+Suntop SF Pty Ltd as trustee for the Suntop Asset Trust,Suntop Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,1-110,Y,SUNTPSF1
+Susan River Solar Pty Ltd as Trustee for Susan River Solar Trust,Susan River Solar Farm,QLD1,Generating Unit,Market ,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,Jan-49,N,SRSF1
+CleanCo Queensland Limited,Swanbank E Power Station ,QLD1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),1,Y,SWAN_E
+MP Tableland Green Power Pty Ltd,Tableland Mill Unit 2,QLD1,Generating Unit,Non-Market,Non-Scheduled,Renewable/ Biomass / Waste,Bagasse,Combustion,Steam Super Critical,1,N,TABMILL2
+EDL (TT) Pty Limited,Tahmoor Waste Coal Mine Gas Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Fossil,Waste Coal Mine Gas,Combustion,Spark Ignition Reciprocating Engine,1-Jul,N,TAHMOOR1
+South Australian Water Corporation,Adelaide Desalination Plant,SA1,Bidirectional Unit,Market,Scheduled ,Battery storage,Grid,Storage,Battery and Inverter,"1,2-3",Y,ADPBA1
+Tailem Bend II Project Company Pty Ltd as trustee for the Tailem Bend II Project Trust,Tailem Bend 2 Hybrid Renewable Power Station,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,Jan-29,Y,TB2SF1
+Vena Energy Services (Australia) Pty Ltd,Tailem Bend Solar Project 1,SA1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,Jan-54,Y,TBSF1
+EnergyAustralia Pty Ltd,Tallawarra Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),1,Y,TALWA1
+EnergyAustralia Pty Ltd,Tallawarra Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas Turbine (OCGT),1,N,TALWB1
+Hydro-Electric Corporation,Tamar Valley Combined Cycle Power Station,TAS1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),1-Feb,Y,TVCC201
+Taralga Wind Farm Nominees No 2 Pty Ltd (ATF Taralga Wind Farm Operating Trust),Taralga Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-51,N,TARALGA1
+South Australian Water Corporation,Bolivar Waste Water Treatment Plant,SA1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,"1-3, 4-5",Y,BOWWBA1
+Stanwell Corporation Limited,Tarong North Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Super Critical,1,Y,TNPS1
+Stanwell Corporation Limited,Tarong Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,1,Y,TARONG#1
+Stanwell Corporation Limited,Tarong Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,2,Y,TARONG#2
+Stanwell Corporation Limited,Tarong Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,3,Y,TARONG#3
+Stanwell Corporation Limited,Tarong Power Station,QLD1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,4,Y,TARONG#4
+Hydro-Electric Corporation,Tarraleah Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Jun,Y,TARRALEA
+Enel X Australia Pty Ltd ,Tataria Bordertown Plant,SA1,Generating Unit,Market,Non-Scheduled,Fossil,Diesel,Combustion,Compression Reciprocating Engine,1,Y,TATIARA1
+Diamond Energy Pty Ltd,Tatura Biomass Generator,VIC1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Sewerage / Waste Water,Combustion,Compression Reciprocating Engine,1,N,TATURA01
+South Australian Water Corporation,Happy Valley Water Treatment Plant,SA1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,"1-5,6-9",Y,HVWWBA1
+AGL SA Generation Pty Limited,The Bluff Wind Farm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-25,N,BLUFF1
+Pacific Hydro Investments Pty Ltd,The Drop Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Run of River,1,N,THEDROP1
+Alinta Energy Retail Sales Pty Ltd,Timboon West Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-Feb,Y,TIMWEST
+Toora Wind Farm Pty Ltd,Toora Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-Dec,Y,TOORAWF
+South Australian Water Corporation ,Christies Beach Wastewater Treatment Plant,SA1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,1-May,Y,CBWWBA1
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas / Fuel Oil,Combustion,Steam Sub-Critical,1,Y,TORRB1
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas / Fuel Oil,Combustion,Steam Sub-Critical,2,Y,TORRB2
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas / Fuel Oil,Combustion,Steam Sub-Critical,3,Y,TORRB3
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,Generating Unit,Market,Scheduled,Fossil,Natural Gas / Fuel Oil,Combustion,Steam Sub-Critical,4,Y,TORRB4
+EDL Group Operations Pty Ltd,Tower Power Plant,NSW1,Generating Unit,Market,Non-Scheduled,Fossil,Waste Coal Mine Gas,Combustion,Spark Ignition Reciprocating Engine,Jan-40,N,TOWER
+QPM Energy Markets Pty Ltd,Townsville Gas Turbine,QLD1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),1,Y,YABULU
+QPM Energy Markets Pty Ltd,Townsville Gas Turbine,QLD1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),2,Y,YABULU2
+NovaPower Pty Ltd,Traralgon Network Support Station,VIC1,Generating Unit,Market,Non-Scheduled,Fossil,Natural Gas,Combustion,Spark Ignition Reciprocating Engine,1-May,N,TGNSS1
+Hydro-Electric Corporation,Trevallyn Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,TREVALLN
+Hydro-Electric Corporation,Tribute Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,Y,TRIBUTE
+Tully Sugar Limited,Tully Sugar Mill,QLD1,Generating Unit,Non-Market,Non-Scheduled,Renewable/ Biomass / Waste and Fossil,Bagasse and Diesel,Combustion,Steam Super Critical and Compression Reciprocating Engine,1-May,,TULLYSM1
+Snowy Hydro Limited,Tumut 3 Power Station,NSW1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Jun,Y,TUMUT3
+Snowy Hydro Limited,Tumut 3 Pumps,NSW1,Load,Market,Scheduled*,Hydro,Water,Renewable,Hydro - Gravity,4-Jun,Y,SNOWYP
+Snowy Hydro Limited,Tumut Power Station,NSW1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Aug,Y,UPPTUMUT
+Hydro-Electric Corporation,Tungatinah Power Station,TAS1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,"1, 2 & 5,3 & 4",Y,TUNGATIN
+Stanwell Corporation Limited,Tarong BESS,QLD1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,1-164,Y,TARBESS1
+Origin Energy Electricity Limited,Uranquinty Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1,Y,URANQ11
+Origin Energy Electricity Limited,Uranquinty Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2,Y,URANQ12
+Origin Energy Electricity Limited,Uranquinty Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),3,Y,URANQ13
+Origin Energy Electricity Limited,Uranquinty Power Station,NSW1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),4,Y,URANQ14
+Diamond Energy Pty Ltd,Valdora Solar Farm,QLD1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat panel,1,Y,VALDORA1
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,5,Y,VP5
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,Generating Unit,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,6,Y,VP6
+Snowy Hydro Limited,Valley Power Peaking Facility,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),1-Jun,Y,VPGS1
+Snowy Hydro Limited,Valley Power Peaking Facility,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2-Jun,Y,VPGS2
+Snowy Hydro Limited,Valley Power Peaking Facility,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),3-Jun,Y,VPGS3
+Snowy Hydro Limited,Valley Power Peaking Facility,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),4-Jun,Y,VPGS4
+Snowy Hydro Limited,Valley Power Peaking Facility,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),5-Jun,Y,VPGS5
+Snowy Hydro Limited,Valley Power Peaking Facility,VIC1,Generating Unit,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),6-Jun,Y,VPGS6
+Veolia Environmental Services (Australia) Pty Ltd,Veolia Ti Tree Bio Reactor,QLD1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,1-Feb,N,TITREE
+Wilmar Sugar Pty Ltd,Victoria Mill,QLD1,Generating Unit,Non-Market,Non-Scheduled,Renewable/ Biomass / Waste,Bagasse,Combustion,Steam Super Critical,3,N,-
+Wilmar Sugar Pty Ltd,Victoria Mill,QLD1,Generating Unit,Non-Market,Non-Scheduled,Renewable/ Biomass / Waste,Bagasse,Combustion,Steam Super Critical,4,N,-
+Tailem Bend II Project Company Pty Ltd as trustee for the Tailem Bend II Project Trust,Tailem Bend 2 Hybrid Renewable Power Station,SA1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-14,Y,TB2B1
+Wagga Wagga Operationsco Pty Ltd Atf Wagga Wagga Operations Trust,Wagga North Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,Jan-34,Y,WAGGNSF1
+Walla Walla Asset Co Pty Ltd as Trustee for the Walla Walla Asset Trust,Walla Walla Solar Farm 1,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,Jan-48,Y,WLWLSF1
+Walla Walla Asset Co Pty Ltd as Trustee for the Walla Walla Asset Trust,Walla Walla Solar Farm 2,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,49-96,Y,WLWLSF2
+Ulinda Park ProjectCo Pty Ltd,Ulinda Park BESS,QLD1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,Jan-52,Y,ULPBESS1
+Stanwell Corporation Limited,Wambo Wind Farm 1,QLD1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-42,Y,WAMBOWF1
+Victorian Big Battery Pty Ltd,Victorian Big Battery,VIC1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,1-212,Y,VBB1
+Wandoan Solar Project Co Pty Ltd as the Trustee for Wandoan Solar Project Trust,Wandoan Solar Farm 1,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,Jan-44,Y,WANDSF1
+CPE Mascot Pty Ltd,Wangaratta Solar Farm,VIC1,Generating Unit,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,1-Jun,N,WNSF1
+Western Downs BESS Pty Ltd as trustee for the Western Downs BESS Trust,Western Downs Battery Energy Storage System,QLD1,Bidirectional Unit,Market,Scheduled,Battery storage,Grid,Storage,Battery and Inverter,1-140,Y,WDBESS1
+The University of Queensland ,Warwick Solar Farm 1 ,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,Jan-24,Y,WARWSF1
+The University of Queensland ,Warwick Solar Farm 2,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,Jan-24,Y,WARWSF2
+Waterloo Wind Farm Pty Ltd,Waterloo Wind Farm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-43,N,WATERLWF
+AGL SA Generation Pty Limited,Wattle Point Wind Farm,SA1,Generating Unit,Market,Non-Scheduled*,Wind,Wind,Renewable,Wind - Onshore,Jan-55,Y,WPWF
+Pyrenees Wind Energy Developments Pty Ltd,Waubra Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-128,N,WAUBRAWF
+Wellington North Solar Farm Pty Limited,Wellington North Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,1-104,Y,WELNSF1
+Lightsource Australia SPV 4 Pty Ltd ,Wellington Solar Farm ,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,1-132,Y,WELLSF1
+Wemen Asset Co Pty Ltd As Trustee For Wemen Solar Unit Trust,Wemen Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,Jan-39,Y,WEMENSF1
+Enel X Australia Pty Ltd ,West Illawarra Leagues Club Plant,NSW1,Generating Unit,Market,Non-Scheduled,Fossil,Diesel,Combustion,Compression Reciprocating Engine,1-Feb,Y,WESTILL1
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,WKIEWA1,Y,WKIEWA1
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,WKIEWA2,Y,WKIEWA2
+West Wyalong Fund Pty Ltd as Trustee for the West Wyalong Trust,West Wyalong Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,Jan-29,Y,WSTWYSF1
+ZEN Energy Retail Pty Ltd,Templers Battery Energy Storage System,SA1,Bidirectional Unit,Market,Scheduled,Battery Storage,Grid,Storage,Battery and Inverter,Jan-80,Y,TEMPB1
+Western Downs Green Power Hub Pty Ltd ATF Western Downs Green Power Hub Trust,Western Downs GPH,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,1-167,Y,WDGPH1
+Enel X Australia Pty Ltd ,Western Suburbs League Club (Campbelltown) Plant,NSW1,Generating Unit,Market,Non-Scheduled,Fossil,Diesel,Combustion,Compression Reciprocating Engine,1,N,WESTCBT1
+White Rock Wind Farm Pty Ltd,White Rock Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,71-78,Y,WRSF1
+White Rock Wind Farm Pty Ltd,White Rock Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-70,Y,WRWF1
+Whitsunday Solar Farm Pty Ltd,Whitsunday Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,Jan-23,Y,WHITSF1
+Origin Energy Electricity Limited,Whitwood Road Renewable Energy Facility,QLD1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,1,N,WHIT1
+Santos NSW (Narrabri Power) Pty Ltd,Wilga Park B,NSW1,Generating Unit,Market,Non-Scheduled,Fossil,Coal Seam Methane,Combustion,Spark Ignition Reciprocating Engine,1-Apr,N,WILGB01
+Santos NSW (Narrabri Power) Pty Ltd,Wilga Park Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Fossil,Coal Seam Methane,Combustion,Spark Ignition Reciprocating Engine,1-Jun,N,WILGAPK
+Pacific Hydro Investments Pty Ltd,William Hovell Power Station,VIC1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Run of River,1,N,WILLHOV1
+Willogoleche Power Pty Ltd As The Trustee For The Willogoleche Operating Trust,Willogoleche Wind Farm,SA1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-32,Y,WGWF1
+Windy Hill Wind Farm Pty Ltd,Windy Hill Wind Farm,QLD1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-20,Y,WHILL1
+EDL LFG (SA) Pty Ltd,Wingfield 1 Landfill Gas Power Station,SA1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-Apr,N,WINGF1_1
+EDL LFG (SA) Pty Ltd,Wingfield 2 Landfill Gas Power Station,SA1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-Apr,N,WINGF2_1
+Winton Asset Co Pty Ltd as the Trustee for Winton Asset Trust,Winton Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat Panel,1-1076,Y,WINTSF1
+CleanCo Queensland Limited,Wivenhoe Power Station,QLD1,Load,Market,Scheduled,-,-,-,-,1,Y,PUMP1
+CleanCo Queensland Limited,Wivenhoe Power Station,QLD1,Load,Market,Scheduled,-,-,-,-,2,Y,PUMP2
+CleanCo Queensland Limited,Wivenhoe Power Station,QLD1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Pump Storage,1,Y,W/HOE#1
+CleanCo Queensland Limited,Wivenhoe Power Station,QLD1,Generating Unit,Market,Scheduled,Hydro,Water,Renewable,Pump Storage,2,Y,W/HOE#2
+Wollar Solar Development Pty Ltd,Wollar Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,"1-29, 30-58",Y,WOLARSF1
+LMS Energy Pty Ltd,Wollert Renewable Energy Facility,VIC1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-Jul,N,WOLLERT1
+Progressive Green Pty Ltd,Wonthaggi Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-Jun,Y,WONWP
+EnergyAustralia Pty Ltd,Woodlawn Bioreactor Energy Generation Station,NSW1,Generating Unit,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,1-Jul,N,WDLNGN01
+Woodlawn Wind Pty Ltd,Woodlawn Wind Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,,N,WOODLWN1
+Hydro-Electric Corporation,Woolnorth Studland Bay / Bluff Point Wind Farm,TAS1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-62,Y,WOOLNTH1
+Woolooga Fund Pty Ltd as Trustee for the Woolooga Trust ,Woolooga Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-89,Y,WOOLGSF1
+Sun Spot 3 Pty Ltd,Wunghnu Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-34,Y,WUNUSF1
+Wyalong Solar Farm Pty Ltd as trustee for the Wyalong Solar Farm Unit Trust,Wyalong Solar Farm,NSW1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-38,Y,WYASF1
+Hydro Power Pty Limited,Wyangala A Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,WYANGALA
+Hydro Power Pty Limited,Wyangala B Power Station,NSW1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,N,WYANGALB
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Brown Coal,Combustion,Steam Sub-Critical,1,Y,YWPS1
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Brown Coal,Combustion,Steam Sub-Critical,2,Y,YWPS2
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Brown Coal,Combustion,Steam Sub-Critical,3,Y,YWPS3
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,Generating Unit,Market,Scheduled,Fossil,Brown Coal,Combustion,Steam Sub-Critical,4,Y,YWPS4
+Pacific Hydro Yaloak South Pty Ltd,Yaloak South Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-14,Y,YSWF1
+Energy Pacific (Vic) Pty Ltd,Yambuk Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-20,N,YAMBUKWF
+Yarranlea Solar Pty Ltd ,Yarranlea Solar Farm,QLD1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-44,Y,YARANSF1
+AGL Hydro Partnership,Yarrawonga Hydro Power Station,VIC1,Generating Unit,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-Feb,N,YWNGAHYD
+RTA Yarwun Pty Ltd,Yarwun Power Station,QLD1,Generating Unit,Market,Non-Scheduled**,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),1,Y,YARWUN_1
+Yatpool Sun Farm Pty Ltd,Yatpool Solar Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Tracking Flat panel,Jan-36,Y,YATSF1
+Alinta Energy Retail Sales Pty Ltd,Yawong Wind Farm,VIC1,Generating Unit,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-Feb,Y,YAWWF1
+Lal Lal Wind Farms Nom Co Pty Ltd,Yendon Wind Farm,VIC1,Generating Unit,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,Jan-38,Y,YENDWF1
