@@ -153,35 +153,29 @@ def build_supply_curve(df, interval, region='VIC1'):
     # Ensure datetime format for comparison
     df['INTERVAL_DATETIME'] = pd.to_datetime(df['INTERVAL_DATETIME'])
     interval = pd.to_datetime(interval)
-
+    # Keep DUID in the output for each (price, volume) pair
     # Filter for the given interval
-    df_interval = df[(df['INTERVAL_DATETIME'] == interval) & (df['Region']==region)]
+    df_interval = df[(df['INTERVAL_DATETIME'] == interval) & (df['Region'] == region)]
     if df_interval.empty:
         raise ValueError(f"No data found for interval: {interval}")
 
-    # Prepare lists to collect all (price, volume) pairs
     price_volume_pairs = []
     price_cols = [f'PRICEBAND{i}' for i in range(1, 11)]
     avail_cols = [f'BANDAVAIL{i}' for i in range(1, 11)]
 
     for _, row in df_interval.iterrows():
+        duid = row['DUID']
         prices = row[price_cols].to_numpy(dtype=float)
         volumes = row[avail_cols].to_numpy(dtype=float)
-
         for p, v in zip(prices, volumes):
             if pd.notna(p) and pd.notna(v) and v > 0:
-                price_volume_pairs.append((p, v))
+                price_volume_pairs.append((duid, p, v))
 
-    # Convert to DataFrame
-    curve_df = pd.DataFrame(price_volume_pairs, columns=['Price', 'Volume'])
-
-    # Sort by price
+    curve_df = pd.DataFrame(price_volume_pairs, columns=['DUID', 'Price', 'Volume'])
     curve_df = curve_df.sort_values(by='Price').reset_index(drop=True)
-
-    # Add cumulative volume
     curve_df['CumulativeVolume'] = curve_df['Volume'].cumsum()
-
     return curve_df
+  
 
 
 # %%
@@ -196,14 +190,30 @@ import matplotlib.pyplot as plt
 def plot_supply_curve(supply_curve, title="Supply Curve"):
     """
     Plot cumulative volume vs price from a supply curve DataFrame.
+    Each step is annotated with the DUID (market participant).
     """
+
     plt.figure(figsize=(8, 5))
-    plt.step(supply_curve['CumulativeVolume'], supply_curve['Price'], where='post')
-    plt.xlabel('Price ($/MWh)')
-    plt.ylabel('Cumulative Volume (MW)')
+    plt.step(
+        supply_curve['CumulativeVolume'],
+        supply_curve['Price'],
+        color='black',
+        linewidth=1,
+        label='Supply Curve'
+    )
+    plt.scatter(
+        supply_curve['CumulativeVolume'],
+        supply_curve['Price'],
+        c=pd.factorize(supply_curve['DUID'])[0],
+        cmap='tab20',
+        s=50,
+        edgecolor='k',
+        label=None
+    )
+    plt.xlabel('Cumulative Volume')
+    plt.ylabel('Price')
     plt.title(title)
-    plt.grid(True)
-    plt.tight_layout()
+    plt.legend()
     plt.show()
 
 plot_supply_curve(supply_curve, title=f"Supply Curve for {interval} VIC1")
